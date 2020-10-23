@@ -3,97 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/about/</loc>
+    <loc>https://ikigaiinformatics.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/categories/</loc>
+    <loc>https://ikigaiinformatics.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/contact/</loc>
+    <loc>https://ikigaiinformatics.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/rnaseq_denovo/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/rnaseq_denovo/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/exome/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/exome/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/genome_survey/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/genome_survey/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/</loc>
+    <loc>https://ikigaiinformatics.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/prokaryote_assembly/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/prokaryote_assembly/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/dnaseq_reference/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/dnaseq_reference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/rnaseq_reference/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/rnaseq_reference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/services/</loc>
+    <loc>https://ikigaiinformatics.github.io/services/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/analyses/details/mirna/</loc>
+    <loc>https://ikigaiinformatics.github.io/analyses/details/mirna/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ikigaiinformatics.github.io/tags/</loc>
+    <loc>https://ikigaiinformatics.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
