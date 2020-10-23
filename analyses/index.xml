@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ikigai Informatics</title>
-    <link>http://ikigaiinformatics.github.io/</link>
-    <description>Recent content on Ikigai Informatics</description>
+    <title>Analyses on Ikigai Informatics</title>
+    <link>http://ikigaiinformatics.github.io/analyses/</link>
+    <description>Recent content in Analyses on Ikigai Informatics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ikigaiinformatics.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://ikigaiinformatics.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ikigaiinformatics.github.io/about/</guid>
-      <description>Ikigai: A reason for being. A reason for doing or accomplishing!
-We as a team, help in the following phases of realizing your goal:
-  Planning your experiment so that it makes scientific sense. This includes suggesting you an apt approach to derive the best possible outcome.
-  Execution of your requisite analyses and help you answer the questions posed by you.
-  Sharing the knowledge with the greater scientific world, for the betterment of Humanity.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://ikigaiinformatics.github.io/analyses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conservation Genomics</title>
       <link>http://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</link>
@@ -30,18 +17,6 @@ It is due to our actions, directly or indirectly various factors have arisen tha
 Analyses flow at Ikigai:
   QC of the datasets to remove low quality data.
   Genome Survey analyses to identify various pecularities of the genome.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://ikigaiinformatics.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ikigaiinformatics.github.io/contact/</guid>
-      <description>We&amp;rsquo;d love to assist you!
-We recommend you to submit the below form, so that one of our team members can reach you.
-However, feel free to drop an email to : ikigaiinformatics AT gmail DOT com with the following details so that we can reach you easily:
-      </description>
     </item>
     
     <item>
@@ -121,19 +96,6 @@ Since Genome Survey is done at 25-30X data (i.e 1Gb genome =&amp;gt; 30Gb data),
       <description>We offer the following approach to analyse RNASeq data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others. We prefer having the genome from ENSEMBL due to the downstream integration with biomart.
   Alignment of Reads: Reads will be aligned with the genome using the splice-sites information if available depending on the organism (prokaryotes will generally not have).
   Novel transcript assembly: Novel transcripts will be assembled using the help of the genome and screened for their coding potential.</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>http://ikigaiinformatics.github.io/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://ikigaiinformatics.github.io/services/</guid>
-      <description>We offer the following services at Ikigai Informatics:
-  Genome Survey analyses: Knowledge creation for information sparse organisms
-  DNASeq with a Reference Genome: Contrast your sample with an available resource using Genome Sequencing
-  Exome mutation analyses: Explore variation in the Protein Coding regions of a gene in a genome.
-  Eukaryotic Genome assembly and analyses: Develop resource for a Eukaryotic organism using an assembly by mining features.</description>
     </item>
     
     <item>

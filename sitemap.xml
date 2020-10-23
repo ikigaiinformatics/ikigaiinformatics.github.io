@@ -9,7 +9,19 @@
   </url>
   
   <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ikigaiinformatics.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,13 +33,61 @@
   </url>
   
   <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/rnaseq_denovo/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/exome/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/genome_survey/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ikigaiinformatics.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/prokaryote_assembly/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/dnaseq_reference/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/rnaseq_reference/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ikigaiinformatics.github.io/services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ikigaiinformatics.github.io/analyses/details/mirna/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
