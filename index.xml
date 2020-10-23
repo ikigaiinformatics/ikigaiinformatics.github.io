@@ -62,9 +62,8 @@ However, feel free to drop an email to : ikigaiinformatics AT gmail DOT com with
       <guid>https://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</guid>
       <description>We perform Eukaryotic Genome Assemblies to generate the following information about the prospective organism.
   Genome Survey: Determine metrics like Genome size, heterozygosity and repetitive content of the genome.
-  Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome.
-  Genome Masking: Identify low complexity, mobile elements and simple repeats to mine features.
-  Genome Annotation: Identify and mine features coding for proteins or their regulatory elements.</description>
+  Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome. Assembly will be validated using BUSCO, Transcript mapping (subject to availability) and Merqury to assess the genome completion.
+  Genome Masking: Identify low complexity, mobile elements and simple repeats to mine features.</description>
     </item>
     
     <item>
