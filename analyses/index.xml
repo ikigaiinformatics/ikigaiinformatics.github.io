@@ -1,112 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Analyses on Ikigai Informatics</title>
-    <link>https://ikigaiinformatics.github.io/analyses/</link>
-    <description>Recent content in Analyses on Ikigai Informatics</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ikigaiinformatics.github.io/analyses/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Conservation Genomics</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/conservation_genomics/</guid>
-      <description>At Ikigai we offer a special analyses pipeline for creating resources that might help saving flora and fauna from getting extinct.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analyses on Ikigai Informatics</title><link>https://ikigaiinformatics.github.io/analyses/</link><description>Recent content in Analyses on Ikigai Informatics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ikigaiinformatics.github.io/analyses/index.xml" rel="self" type="application/rss+xml"/><item><title>Conservation Genomics</title><link>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</guid><description>At Ikigai we offer a special analyses pipeline for creating resources that might help saving flora and fauna from getting extinct.
 It is due to our actions, directly or indirectly various factors have arisen that have led to many species getting wiped out. 1 2
 Analyses flow at Ikigai:
-  QC of the datasets to remove low quality data.
-  Genome Survey analyses to identify various pecularities of the genome.</description>
-    </item>
-    
-    <item>
-      <title>Denovo RNASeq</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/rnaseq_denovo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/rnaseq_denovo/</guid>
-      <description>We offer the following approach to analyse RNASeq data if the reference genome is not available at public resources like NCBI, ENSEMBL, JGI or others. This might be due to a variety of reasons including lack of a reference altogether amongst many.
-  Normalization of Reads: Reads will be normalized using a standalone approach to ease the computational load and to correct for coverage of ultra-high/ultra-low kmers to assemble these transcripts.</description>
-    </item>
-    
-    <item>
-      <title>Eukaryotic Genome Assembly</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/eukaryote_assembly/</guid>
-      <description>We perform Eukaryotic Genome Assemblies to generate the following information about the prospective organism.
-  Genome Survey: Determine metrics like Genome size, heterozygosity and repetitive content of the genome.
-  Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome. Assembly will be validated using BUSCO, Transcript mapping (subject to availability) and Merqury to assess the genome completion.
-  Genome Masking: Identify low complexity, mobile elements and simple repeats to mine features.</description>
-    </item>
-    
-    <item>
-      <title>Exome Analyses</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/exome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/exome/</guid>
-      <description>We offer the following approach to analyse Exome data. The primary requisite information is the kit that was used to prepare the library and the associated BED file so as to identify the targeted regions.
-  Alignment of the reference genome: Depending on the kit and the associated BED, we will be aligning the reads to the appropriate version: Hg19, hg38, Grch37, Grch38.
-  Variation calling: For Tumor-Normal matched samples, somatic variation calling will be done.</description>
-    </item>
-    
-    <item>
-      <title>Genome Survey</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/genome_survey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/genome_survey/</guid>
-      <description>Genome Survey analyses at Ikigai entails extraction of the following information from the datasets using a kmer based approach.
+QC of the datasets to remove low quality data.
+Genome Survey analyses to identify various pecularities of the genome.</description></item><item><title>Denovo RNASeq</title><link>https://ikigaiinformatics.github.io/analyses/rnaseq_denovo/rnaseq_denovo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/rnaseq_denovo/rnaseq_denovo/</guid><description>We offer the following approach to analyse RNASeq data if the reference genome is not available at public resources like NCBI, ENSEMBL, JGI or others. This might be due to a variety of reasons including lack of a reference altogether amongst many.
+Normalization of Reads: Reads will be normalized using a standalone approach to ease the computational load and to correct for coverage of ultra-high/ultra-low kmers to assemble these transcripts.</description></item><item><title>Eukaryotic Genome Assembly</title><link>https://ikigaiinformatics.github.io/analyses/eukaryote_assembly/eukaryote_assembly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/eukaryote_assembly/eukaryote_assembly/</guid><description>We perform Eukaryotic Genome Assemblies to generate the following information about the prospective organism.
+Genome Survey: Determine metrics like Genome size, heterozygosity and repetitive content of the genome.
+Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome. Assembly will be validated using BUSCO, Transcript mapping (subject to availability) and Merqury to assess the genome completion.
+Genome Masking: Identify low complexity, mobile elements and simple repeats to mine features.</description></item><item><title>Exome Analyses</title><link>https://ikigaiinformatics.github.io/analyses/exome/exome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/exome/exome/</guid><description>We offer the following approach to analyse Exome data. The primary requisite information is the kit that was used to prepare the library and the associated BED file so as to identify the targeted regions.
+Alignment of the reference genome: Depending on the kit and the associated BED, we will be aligning the reads to the appropriate version: Hg19, Hg38, Grch37, Grch38.
+Variation calling: For Tumor-Normal matched samples, somatic variation calling will be done.</description></item><item><title>Genome Survey</title><link>https://ikigaiinformatics.github.io/analyses/genome_survey/genome_survey/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/genome_survey/genome_survey/</guid><description>Genome Survey analyses at Ikigai entails extraction of the following information from the datasets using a kmer based approach.
 Since Genome Survey is done at 25-30X data (i.e 1Gb genome =&amp;gt; 30Gb data), we can analyse the data in the below fashion.
-  Genome size: Ballpark the size of the genome and mark it against existing literature.
-  Heterozygosity of genome: Heterozygosity corelates with the presence of allelic variations, which might complicate genome assembly.</description>
-    </item>
-    
-    <item>
-      <title>Prokaryotic Genome Assembly</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/prokaryote_assembly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/prokaryote_assembly/</guid>
-      <description>We perform Prokaryotic Genome Assemblies to generate the following information about the prospective organism.
-  Data QC and Contamination screen: Low quality sequences and bases are removed. Subsequently 10000 reads are picked randomly to screen and calculate the proportion of the organism of interest.
-  Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome. Please let us know if Plasmids are also present in the data.</description>
-    </item>
-    
-    <item>
-      <title>Reference Aided DNASeq</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/dnaseq_reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/dnaseq_reference/</guid>
-      <description>We offer the following approach to analyse WGS data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others.
-  Alignment of the reference genome: Reads will be aligned to the reference genome to check the mappability, coverage and depth of the organism sequenced.
-  Variation calling: For the samples, we will be performing variant calling to call SNVs, InDels and smaller complex variations like MNPs (&amp;lt;50bp).</description>
-    </item>
-    
-    <item>
-      <title>Reference Aided RNASeq</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/rnaseq_reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/rnaseq_reference/</guid>
-      <description>We offer the following approach to analyse RNASeq data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others. We prefer having the genome from ENSEMBL due to the downstream integration with biomart.
-  Alignment of Reads: Reads will be aligned with the genome using the splice-sites information if available depending on the organism (prokaryotes will generally not have).
-  Novel transcript assembly: Novel transcripts will be assembled using the help of the genome and screened for their coding potential.</description>
-    </item>
-    
-    <item>
-      <title>smallRNA Analyses</title>
-      <link>https://ikigaiinformatics.github.io/analyses/details/mirna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ikigaiinformatics.github.io/analyses/details/mirna/</guid>
-      <description>We offer the following approach to analyse RNASeq data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others. We prefer having the genome from ENSEMBL due to the downstream integration with biomart.
-  QC and Read Trimming: Trim adapters and retain reads between 18-30bp.
-  Alignment to other ncRNAs: ncRNA catalogue from which the smallRNA sequences (precursors or mature) have been removed are used as a bait to remove reads originating from such sequences.</description>
-    </item>
-    
-  </channel>
-</rss>
+Genome size: Ballpark the size of the genome and mark it against existing literature.
+Heterozygosity of genome: Heterozygosity corelates with the presence of allelic variations, which might complicate genome assembly.</description></item><item><title>Prokaryotic Genome Assembly</title><link>https://ikigaiinformatics.github.io/analyses/prokaryote_assembly/prokaryote_assembly/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/prokaryote_assembly/prokaryote_assembly/</guid><description>We perform Prokaryotic Genome Assemblies to generate the following information about the prospective organism.
+Data QC and Contamination screen: Low quality sequences and bases are removed. Subsequently 10000 reads are picked randomly to screen and calculate the proportion of the organism of interest.
+Genome Assembly: Create contiguous sequence segments using the sequenced reads representing the genome. Please let us know if Plasmids are also present in the data.</description></item><item><title>Reference Aided DNASeq</title><link>https://ikigaiinformatics.github.io/analyses/dnaseq_reference/dnaseq_reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/dnaseq_reference/dnaseq_reference/</guid><description>We offer the following approach to analyse WGS data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others.
+Alignment of the reference genome: Reads will be aligned to the reference genome to check the mappability, coverage and depth of the organism sequenced.
+Variation calling: For the samples, we will be performing variant calling to call SNVs, InDels and smaller complex variations like MNPs (&amp;lt;50bp).</description></item><item><title>Reference Aided RNASeq</title><link>https://ikigaiinformatics.github.io/analyses/rnaseq_reference/rnaseq_reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/rnaseq_reference/rnaseq_reference/</guid><description>We offer the following approach to analyse RNASeq data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others. We prefer having the genome from ENSEMBL due to the downstream integration with biomart.
+Alignment of Reads: Reads will be aligned with the genome using the splice-sites information if available depending on the organism (prokaryotes will generally not have).
+Novel transcript assembly: Novel transcripts will be assembled using the help of the genome and screened for their coding potential.</description></item><item><title>smallRNA Analyses</title><link>https://ikigaiinformatics.github.io/analyses/mirna/mirna/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/mirna/mirna/</guid><description>We offer the following approach to analyse RNASeq data if the reference genome is readily available at public resources like NCBI, ENSEMBL, JGI or others. We prefer having the genome from ENSEMBL due to the downstream integration with biomart.
+QC and Read Trimming: Trim adapters and retain reads between 18-30bp.
+Alignment to other ncRNAs: ncRNA catalogue from which the smallRNA sequences (precursors or mature) have been removed are used as a bait to remove reads originating from such sequences.</description></item></channel></rss>
