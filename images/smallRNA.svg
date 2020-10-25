@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="266.14mm" height="238.38mm" viewBox="1380 2438 26614 23838" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" width="204.86mm" height="239.01mm" viewBox="1153 2438 20486 23901" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs>
   <font id="EmbeddedFont_1" horiz-adv-x="2048">
    <font-face font-family="Liberation Sans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1852" descent="423"/>
    <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
-   <glyph unicode="z" horiz-adv-x="848" d="M 83,0 L 83,137 688,943 117,943 117,1082 901,1082 901,945 295,139 922,139 922,0 83,0 Z"/>
    <glyph unicode="y" horiz-adv-x="1033" d="M 191,-425 C 142,-425 100,-421 67,-414 L 67,-279 C 92,-283 120,-285 151,-285 263,-285 352,-203 417,-38 L 434,5 5,1082 197,1082 425,484 C 428,475 432,464 437,451 442,438 457,394 482,320 507,246 521,205 523,196 L 593,393 830,1082 1020,1082 604,0 C 559,-115 518,-201 479,-258 440,-314 398,-356 351,-384 304,-411 250,-425 191,-425 Z"/>
+   <glyph unicode="x" horiz-adv-x="1006" d="M 801,0 L 510,444 217,0 23,0 408,556 41,1082 240,1082 510,661 778,1082 979,1082 612,558 1002,0 801,0 Z"/>
    <glyph unicode="w" horiz-adv-x="1509" d="M 1174,0 L 965,0 776,765 740,934 C 734,904 725,861 712,805 699,748 631,480 508,0 L 300,0 -3,1082 175,1082 358,347 C 363,331 377,265 401,149 L 418,223 644,1082 837,1082 1026,339 1072,149 1103,288 1308,1082 1484,1082 1174,0 Z"/>
    <glyph unicode="v" horiz-adv-x="1033" d="M 613,0 L 400,0 7,1082 199,1082 437,378 C 446,351 469,272 506,141 L 541,258 580,376 826,1082 1017,1082 613,0 Z"/>
    <glyph unicode="u" horiz-adv-x="874" d="M 314,1082 L 314,396 C 314,325 321,269 335,230 349,191 371,162 402,145 433,128 478,119 537,119 624,119 692,149 742,208 792,267 817,350 817,455 L 817,1082 997,1082 997,231 C 997,105 999,28 1003,0 L 833,0 C 832,3 832,12 831,27 830,42 830,59 829,78 828,97 826,132 825,185 L 822,185 C 781,110 733,58 679,27 624,-4 557,-20 476,-20 357,-20 271,10 216,69 161,128 133,225 133,361 L 133,1082 314,1082 Z"/>
    <glyph unicode="t" horiz-adv-x="531" d="M 554,8 C 495,-8 434,-16 372,-16 228,-16 156,66 156,229 L 156,951 31,951 31,1082 163,1082 216,1324 336,1324 336,1082 536,1082 536,951 336,951 336,268 C 336,216 345,180 362,159 379,138 408,127 450,127 474,127 509,132 554,141 L 554,8 Z"/>
    <glyph unicode="s" horiz-adv-x="901" d="M 950,299 C 950,197 912,118 835,63 758,8 650,-20 511,-20 376,-20 273,2 200,47 127,91 79,160 57,254 L 216,285 C 231,227 263,185 311,158 359,131 426,117 511,117 602,117 669,131 712,159 754,187 775,229 775,285 775,328 760,362 731,389 702,416 654,438 589,455 L 460,489 C 357,516 283,542 240,568 196,593 162,624 137,661 112,698 100,743 100,796 100,895 135,970 206,1022 276,1073 378,1099 513,1099 632,1099 727,1078 798,1036 868,994 912,927 931,834 L 769,814 C 759,862 732,899 689,925 645,950 586,963 513,963 432,963 372,951 333,926 294,901 275,864 275,814 275,783 283,758 299,738 315,718 339,701 370,687 401,673 467,654 568,629 663,605 732,583 774,563 816,542 849,520 874,495 898,470 917,442 930,410 943,377 950,340 950,299 Z"/>
    <glyph unicode="r" horiz-adv-x="530" d="M 142,0 L 142,830 C 142,906 140,990 136,1082 L 306,1082 C 311,959 314,886 314,861 L 318,861 C 347,954 380,1017 417,1051 454,1085 507,1102 575,1102 599,1102 623,1099 648,1092 L 648,927 C 624,934 592,937 552,937 477,937 420,905 381,841 342,776 322,684 322,564 L 322,0 142,0 Z"/>
-   <glyph unicode="q" horiz-adv-x="927" d="M 484,-20 C 347,-20 246,26 182,119 118,212 86,351 86,536 86,913 219,1102 484,1102 566,1102 634,1088 687,1059 740,1030 785,981 821,914 L 823,914 C 823,934 824,969 827,1018 830,1067 832,1093 835,1096 L 1008,1096 C 1003,1057 1001,958 1001,801 L 1001,-425 821,-425 821,14 825,178 823,178 C 787,107 743,56 690,26 637,-5 569,-20 484,-20 Z M 821,554 C 821,695 798,799 752,867 706,935 633,969 532,969 441,969 375,935 335,867 295,799 275,691 275,542 275,391 295,282 336,217 376,152 441,119 530,119 632,119 706,155 752,228 798,301 821,409 821,554 Z"/>
    <glyph unicode="p" horiz-adv-x="953" d="M 1053,546 C 1053,169 920,-20 655,-20 488,-20 376,43 319,168 L 314,168 C 317,163 318,106 318,-2 L 318,-425 138,-425 138,861 C 138,972 136,1046 132,1082 L 306,1082 C 307,1079 308,1070 309,1054 310,1037 312,1012 314,978 315,944 316,921 316,908 L 320,908 C 352,975 394,1024 447,1055 500,1086 569,1101 655,1101 788,1101 888,1056 954,967 1020,878 1053,737 1053,546 Z M 864,542 C 864,693 844,800 803,865 762,930 698,962 609,962 538,962 482,947 442,917 401,887 371,840 350,777 329,713 318,630 318,528 318,386 341,281 386,214 431,147 505,113 607,113 696,113 762,146 803,212 844,277 864,387 864,542 Z"/>
    <glyph unicode="o" horiz-adv-x="980" d="M 1053,542 C 1053,353 1011,212 928,119 845,26 724,-20 565,-20 407,-20 288,28 207,125 126,221 86,360 86,542 86,915 248,1102 571,1102 736,1102 858,1057 936,966 1014,875 1053,733 1053,542 Z M 864,542 C 864,691 842,800 798,868 753,935 679,969 574,969 469,969 393,935 346,866 299,797 275,689 275,542 275,399 298,292 345,221 391,149 464,113 563,113 671,113 748,148 795,217 841,286 864,395 864,542 Z"/>
    <glyph unicode="n" horiz-adv-x="874" d="M 825,0 L 825,686 C 825,757 818,813 804,852 790,891 768,920 737,937 706,954 661,963 602,963 515,963 447,933 397,874 347,815 322,732 322,627 L 322,0 142,0 142,851 C 142,977 140,1054 136,1082 L 306,1082 C 307,1079 307,1070 308,1055 309,1040 310,1024 311,1005 312,986 313,950 314,897 L 317,897 C 358,972 406,1025 461,1056 515,1087 582,1102 663,1102 782,1102 869,1073 924,1014 979,955 1006,857 1006,721 L 1006,0 825,0 Z"/>
@@ -29,27 +28,20 @@
    <glyph unicode="c" horiz-adv-x="901" d="M 275,546 C 275,402 298,295 343,226 388,157 457,122 548,122 612,122 666,139 709,174 752,209 778,262 788,334 L 970,322 C 956,218 912,135 837,73 762,11 668,-20 553,-20 402,-20 286,28 207,124 127,219 87,359 87,542 87,724 127,863 207,959 287,1054 402,1102 551,1102 662,1102 754,1073 827,1016 900,959 945,880 964,779 L 779,765 C 770,825 746,873 708,908 670,943 616,961 546,961 451,961 382,929 339,866 296,803 275,696 275,546 Z"/>
    <glyph unicode="b" horiz-adv-x="953" d="M 1053,546 C 1053,169 920,-20 655,-20 573,-20 505,-5 451,25 396,54 352,102 318,168 L 316,168 C 316,147 315,116 312,74 309,31 307,7 306,0 L 132,0 C 136,36 138,110 138,223 L 138,1484 318,1484 318,1061 C 318,1018 317,967 314,908 L 318,908 C 351,977 396,1027 451,1057 506,1087 574,1102 655,1102 792,1102 892,1056 957,964 1021,872 1053,733 1053,546 Z M 864,540 C 864,691 844,800 804,865 764,930 699,963 609,963 508,963 434,928 388,859 341,790 318,680 318,529 318,387 341,282 386,215 431,147 505,113 607,113 698,113 763,147 804,214 844,281 864,389 864,540 Z"/>
    <glyph unicode="a" horiz-adv-x="1060" d="M 414,-20 C 305,-20 224,9 169,66 114,123 87,202 87,302 87,414 124,500 198,560 271,620 390,652 554,656 L 797,660 797,719 C 797,807 778,870 741,908 704,946 645,965 565,965 484,965 426,951 389,924 352,897 330,853 323,793 L 135,810 C 166,1005 310,1102 569,1102 705,1102 807,1071 876,1009 945,946 979,856 979,738 L 979,272 C 979,219 986,179 1000,152 1014,125 1041,111 1080,111 1097,111 1117,113 1139,118 L 1139,6 C 1094,-5 1047,-10 1000,-10 933,-10 885,8 855,43 824,78 807,132 803,207 L 797,207 C 751,124 698,66 637,32 576,-3 501,-20 414,-20 Z M 455,115 C 521,115 580,130 631,160 682,190 723,231 753,284 782,336 797,390 797,445 L 797,534 600,530 C 515,529 451,520 408,504 364,488 330,463 307,430 284,397 272,353 272,299 272,240 288,195 320,163 351,131 396,115 455,115 Z"/>
-   <glyph unicode="W" horiz-adv-x="1932" d="M 1511,0 L 1283,0 1039,895 C 1023,951 1000,1051 969,1196 952,1119 937,1054 925,1002 913,950 822,616 652,0 L 424,0 9,1409 208,1409 461,514 C 491,402 519,287 544,168 560,241 579,321 600,408 621,495 713,828 877,1409 L 1060,1409 1305,532 C 1342,389 1372,267 1393,168 L 1402,203 C 1420,280 1435,342 1446,391 1457,439 1551,778 1727,1409 L 1926,1409 1511,0 Z"/>
-   <glyph unicode="V" horiz-adv-x="1377" d="M 782,0 L 584,0 9,1409 210,1409 600,417 684,168 768,417 1156,1409 1357,1409 782,0 Z"/>
-   <glyph unicode="U" horiz-adv-x="1192" d="M 731,-20 C 616,-20 515,1 429,43 343,85 276,146 229,226 182,306 158,401 158,512 L 158,1409 349,1409 349,528 C 349,399 382,302 447,235 512,168 607,135 730,135 857,135 955,170 1026,239 1096,308 1131,408 1131,541 L 1131,1409 1321,1409 1321,530 C 1321,416 1297,318 1249,235 1200,152 1132,89 1044,46 955,2 851,-20 731,-20 Z"/>
    <glyph unicode="T" horiz-adv-x="1192" d="M 720,1253 L 720,0 530,0 530,1253 46,1253 46,1409 1204,1409 1204,1253 720,1253 Z"/>
-   <glyph unicode="S" horiz-adv-x="1192" d="M 1272,389 C 1272,259 1221,158 1120,87 1018,16 875,-20 690,-20 347,-20 148,99 93,338 L 278,375 C 299,290 345,228 414,189 483,149 578,129 697,129 820,129 916,150 983,193 1050,235 1083,297 1083,379 1083,425 1073,462 1052,491 1031,520 1001,543 963,562 925,581 880,596 827,609 774,622 716,635 652,650 541,675 456,699 399,724 341,749 295,776 262,807 229,837 203,872 186,913 168,954 159,1000 159,1053 159,1174 205,1267 298,1332 390,1397 522,1430 694,1430 854,1430 976,1406 1061,1357 1146,1308 1205,1224 1239,1106 L 1051,1073 C 1030,1148 991,1202 933,1236 875,1269 795,1286 692,1286 579,1286 493,1267 434,1230 375,1193 345,1137 345,1063 345,1020 357,984 380,956 403,927 436,903 479,884 522,864 609,840 738,811 781,801 825,791 868,781 911,770 952,758 991,744 1030,729 1067,712 1102,693 1136,674 1166,650 1191,622 1216,594 1236,561 1251,523 1265,485 1272,440 1272,389 Z"/>
    <glyph unicode="R" horiz-adv-x="1244" d="M 1164,0 L 798,585 359,585 359,0 168,0 168,1409 831,1409 C 990,1409 1112,1374 1199,1303 1285,1232 1328,1133 1328,1006 1328,901 1298,813 1237,742 1176,671 1091,626 984,607 L 1384,0 1164,0 Z M 1136,1004 C 1136,1086 1108,1149 1053,1192 997,1235 917,1256 812,1256 L 359,1256 359,736 820,736 C 921,736 999,760 1054,807 1109,854 1136,919 1136,1004 Z"/>
    <glyph unicode="Q" horiz-adv-x="1430" d="M 1495,711 C 1495,512 1445,349 1345,221 1245,93 1106,17 928,-6 955,-90 991,-151 1036,-188 1080,-225 1136,-244 1204,-244 1241,-244 1279,-240 1319,-231 L 1319,-365 C 1257,-380 1198,-387 1141,-387 1040,-387 958,-358 893,-302 828,-244 774,-149 733,-16 601,-9 487,24 392,85 296,145 223,229 173,337 122,444 97,569 97,711 97,936 159,1113 282,1240 405,1367 577,1430 797,1430 940,1430 1065,1402 1170,1345 1275,1288 1356,1205 1412,1096 1467,987 1495,859 1495,711 Z M 1300,711 C 1300,886 1256,1024 1169,1124 1081,1224 957,1274 797,1274 636,1274 511,1225 423,1126 335,1027 291,889 291,711 291,534 336,394 425,291 514,187 637,135 795,135 958,135 1083,185 1170,286 1257,386 1300,528 1300,711 Z"/>
    <glyph unicode="P" horiz-adv-x="1112" d="M 1258,985 C 1258,852 1215,746 1128,667 1041,588 922,549 773,549 L 359,549 359,0 168,0 168,1409 761,1409 C 919,1409 1041,1372 1128,1298 1215,1224 1258,1120 1258,985 Z M 1066,983 C 1066,1165 957,1256 738,1256 L 359,1256 359,700 746,700 C 959,700 1066,794 1066,983 Z"/>
    <glyph unicode="O" horiz-adv-x="1430" d="M 1495,711 C 1495,564 1467,435 1411,324 1354,213 1273,128 1168,69 1063,10 938,-20 795,-20 650,-20 526,9 421,68 316,127 235,212 180,323 125,434 97,563 97,711 97,936 159,1113 282,1240 405,1367 577,1430 797,1430 940,1430 1065,1402 1170,1345 1275,1288 1356,1205 1412,1096 1467,987 1495,859 1495,711 Z M 1300,711 C 1300,886 1256,1024 1169,1124 1081,1224 957,1274 797,1274 636,1274 511,1225 423,1126 335,1027 291,889 291,711 291,534 336,394 425,291 514,187 637,135 795,135 958,135 1083,185 1170,286 1257,386 1300,528 1300,711 Z"/>
    <glyph unicode="N" horiz-adv-x="1165" d="M 1082,0 L 328,1200 333,1103 338,936 338,0 168,0 168,1409 390,1409 1152,201 C 1144,332 1140,426 1140,485 L 1140,1409 1312,1409 1312,0 1082,0 Z"/>
-   <glyph unicode="L" horiz-adv-x="927" d="M 168,0 L 168,1409 359,1409 359,156 1071,156 1071,0 168,0 Z"/>
-   <glyph unicode="I" horiz-adv-x="213" d="M 189,0 L 189,1409 380,1409 380,0 189,0 Z"/>
+   <glyph unicode="M" horiz-adv-x="1377" d="M 1366,0 L 1366,940 C 1366,1044 1369,1144 1375,1240 1342,1121 1313,1027 1287,960 L 923,0 789,0 420,960 364,1130 331,1240 334,1129 338,940 338,0 168,0 168,1409 419,1409 794,432 C 807,393 820,351 833,306 845,261 853,228 857,208 862,235 874,275 891,330 908,384 919,418 925,432 L 1293,1409 1538,1409 1538,0 1366,0 Z"/>
+   <glyph unicode="K" horiz-adv-x="1191" d="M 1106,0 L 543,680 359,540 359,0 168,0 168,1409 359,1409 359,703 1038,1409 1263,1409 663,797 1343,0 1106,0 Z"/>
    <glyph unicode="G" horiz-adv-x="1377" d="M 103,711 C 103,940 164,1117 287,1242 410,1367 582,1430 804,1430 960,1430 1087,1404 1184,1351 1281,1298 1356,1214 1409,1098 L 1227,1044 C 1187,1124 1132,1182 1062,1219 991,1256 904,1274 799,1274 636,1274 512,1225 426,1127 340,1028 297,890 297,711 297,533 343,393 434,290 525,187 652,135 813,135 905,135 991,149 1071,177 1150,205 1215,243 1264,291 L 1264,545 843,545 843,705 1440,705 1440,219 C 1365,143 1274,84 1166,43 1057,1 940,-20 813,-20 666,-20 539,9 432,68 325,127 244,211 188,322 131,432 103,562 103,711 Z"/>
-   <glyph unicode="F" horiz-adv-x="1006" d="M 359,1253 L 359,729 1145,729 1145,571 359,571 359,0 168,0 168,1409 1169,1409 1169,1253 359,1253 Z"/>
+   <glyph unicode="E" horiz-adv-x="1138" d="M 168,0 L 168,1409 1237,1409 1237,1253 359,1253 359,801 1177,801 1177,647 359,647 359,156 1278,156 1278,0 168,0 Z"/>
    <glyph unicode="D" horiz-adv-x="1218" d="M 1381,719 C 1381,574 1353,447 1296,338 1239,229 1159,145 1055,87 951,29 831,0 695,0 L 168,0 168,1409 634,1409 C 873,1409 1057,1349 1187,1230 1316,1110 1381,940 1381,719 Z M 1189,719 C 1189,894 1141,1027 1046,1119 950,1210 811,1256 630,1256 L 359,1256 359,153 673,153 C 776,153 867,176 946,221 1024,266 1084,332 1126,417 1168,502 1189,603 1189,719 Z"/>
    <glyph unicode="C" horiz-adv-x="1324" d="M 792,1274 C 636,1274 515,1224 428,1124 341,1023 298,886 298,711 298,538 343,400 434,295 524,190 646,137 800,137 997,137 1146,235 1245,430 L 1401,352 C 1343,231 1262,138 1157,75 1052,12 930,-20 791,-20 649,-20 526,10 423,69 319,128 240,212 186,322 131,431 104,561 104,711 104,936 165,1112 286,1239 407,1366 575,1430 790,1430 940,1430 1065,1401 1166,1342 1267,1283 1341,1196 1388,1081 L 1207,1021 C 1174,1103 1122,1166 1050,1209 977,1252 891,1274 792,1274 Z"/>
-   <glyph unicode="B" horiz-adv-x="1112" d="M 1258,397 C 1258,272 1212,174 1121,105 1030,35 903,0 740,0 L 168,0 168,1409 680,1409 C 1011,1409 1176,1295 1176,1067 1176,984 1153,914 1106,857 1059,800 993,762 908,743 1020,730 1106,692 1167,631 1228,569 1258,491 1258,397 Z M 984,1044 C 984,1120 958,1174 906,1207 854,1240 779,1256 680,1256 L 359,1256 359,810 680,810 C 782,810 858,829 909,868 959,906 984,965 984,1044 Z M 1065,412 C 1065,578 948,661 715,661 L 359,661 359,153 730,153 C 847,153 932,175 985,218 1038,261 1065,326 1065,412 Z"/>
    <glyph unicode="A" horiz-adv-x="1377" d="M 1167,0 L 1006,412 364,412 202,0 4,0 579,1409 796,1409 1362,0 1167,0 Z M 685,1265 L 676,1237 C 659,1182 635,1111 602,1024 L 422,561 949,561 768,1026 C 749,1072 731,1124 712,1182 L 685,1265 Z"/>
    <glyph unicode="," horiz-adv-x="239" d="M 385,219 L 385,51 C 385,-20 379,-79 366,-126 353,-173 334,-219 307,-262 L 184,-262 C 247,-171 278,-84 278,0 L 190,0 190,219 385,219 Z"/>
-   <glyph unicode="+" horiz-adv-x="1033" d="M 671,608 L 671,180 524,180 524,608 100,608 100,754 524,754 524,1182 671,1182 671,754 1095,754 1095,608 671,608 Z"/>
-   <glyph unicode="*" horiz-adv-x="742" d="M 456,1114 L 720,1217 765,1085 483,1012 668,762 549,690 399,948 243,692 124,764 313,1012 33,1085 78,1219 345,1112 333,1409 469,1409 456,1114 Z"/>
    <glyph unicode=" " horiz-adv-x="556"/>
   </font>
  </defs>
@@ -114,193 +106,138 @@
     <g id="id6">
      <rect class="BoundingBox" stroke="none" fill="none" x="9182" y="10075" width="6036" height="1590"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 12200,11663 L 9183,11663 9183,10076 15216,10076 15216,11663 12200,11663 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9435" y="11090"><tspan fill="rgb(0,0,0)" stroke="none">Alignment of Reads</tspan></tspan></tspan></text>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="10125" y="10760"><tspan fill="rgb(0,0,0)" stroke="none">PiRNA, snoRNA, </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="9249" y="11348"><tspan fill="rgb(0,0,0)" stroke="none">tRNA, rRNA  segregation</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id7">
-     <rect class="BoundingBox" stroke="none" fill="none" x="1380" y="12628" width="6926" height="1590"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 4843,14216 L 1381,14216 1381,12629 8304,12629 8304,14216 4843,14216 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 4843,14216 L 1381,14216 1381,12629 8304,12629 8304,14216 4843,14216 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="1763" y="13313"><tspan fill="rgb(0,0,0)" stroke="none">Identification of Structural </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="1678" y="13901"><tspan fill="rgb(0,0,0)" stroke="none">and Copy Number variants</tspan></tspan></tspan></text>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.CustomShape">
-    <g id="id8">
-     <rect class="BoundingBox" stroke="none" fill="none" x="16071" y="12645" width="5251" height="1590"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 18696,14233 L 16072,14233 16072,12646 21320,12646 21320,14233 18696,14233 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 18696,14233 L 16072,14233 16072,12646 21320,12646 21320,14233 18696,14233 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="16450" y="13330"><tspan fill="rgb(0,0,0)" stroke="none">Organelle Genome</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="16118" y="13918"><tspan fill="rgb(0,0,0)" stroke="none">Assembly+Annotation</tspan></tspan></tspan></text>
+     <rect class="BoundingBox" stroke="none" fill="none" x="10365" y="17868" width="3708" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12219,19456 L 10366,19456 10366,17869 14071,17869 14071,19456 12219,19456 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="10879" y="18553"><tspan fill="rgb(0,0,0)" stroke="none">Differential </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="10902" y="19141"><tspan fill="rgb(0,0,0)" stroke="none">Expression</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.LineShape">
-    <g id="id9">
+    <g id="id8">
      <rect class="BoundingBox" stroke="none" fill="none" x="12080" y="4056" width="301" height="955"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 12230,4057 L 12230,4730"/>
      <path fill="rgb(52,101,164)" stroke="none" d="M 12380,4710 L 12230,5010 12080,4710 12380,4710 Z"/>
     </g>
    </g>
    <g class="com.sun.star.drawing.LineShape">
-    <g id="id10">
+    <g id="id9">
      <rect class="BoundingBox" stroke="none" fill="none" x="12080" y="6556" width="301" height="955"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 12230,6557 L 12230,7230"/>
      <path fill="rgb(52,101,164)" stroke="none" d="M 12380,7210 L 12230,7510 12080,7210 12380,7210 Z"/>
     </g>
    </g>
    <g class="com.sun.star.drawing.LineShape">
-    <g id="id11">
+    <g id="id10">
      <rect class="BoundingBox" stroke="none" fill="none" x="12080" y="9156" width="301" height="955"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 12230,9157 L 12230,9830"/>
      <path fill="rgb(52,101,164)" stroke="none" d="M 12380,9810 L 12230,10110 12080,9810 12380,9810 Z"/>
     </g>
    </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
+   <g class="com.sun.star.drawing.TextShape">
+    <g id="id11">
+     <rect class="BoundingBox" stroke="none" fill="none" x="1153" y="24495" width="20486" height="1844"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1403" y="25907"><tspan fill="rgb(0,0,0)" stroke="none">Red block analyses are done on a chargeable basis for each analyses</tspan></tspan></tspan></text>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.CustomShape">
     <g id="id12">
-     <rect class="BoundingBox" stroke="none" fill="none" x="15216" y="10869" width="3631" height="1779"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 15217,10870 L 18696,10870 18696,12367"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 18846,12347 L 18696,12647 18546,12347 18846,12347 Z"/>
+     <rect class="BoundingBox" stroke="none" fill="none" x="12745" y="15185" width="4448" height="1590"/>
+     <path fill="rgb(255,109,109)" stroke="none" d="M 14969,16773 L 12746,16773 12746,15186 17191,15186 17191,16773 14969,16773 Z"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 14969,16773 L 12746,16773 12746,15186 17191,15186 17191,16773 14969,16773 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13699" y="15654"><tspan fill="rgb(0,0,0)" stroke="none">Novel miRNA</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13870" y="16128"><tspan fill="rgb(0,0,0)" stroke="none">Mining and </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13669" y="16602"><tspan fill="rgb(0,0,0)" stroke="none">Quantification</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id13">
-     <rect class="BoundingBox" stroke="none" fill="none" x="5999" y="17478" width="5212" height="1590"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 8605,19066 L 6000,19066 6000,17479 11209,17479 11209,19066 8605,19066 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="6770" y="18163"><tspan fill="rgb(0,0,0)" stroke="none">Prioritization of </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="7574" y="18751"><tspan fill="rgb(0,0,0)" stroke="none">Variation</tspan></tspan></tspan></text>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.CustomShape">
-    <g id="id14">
-     <rect class="BoundingBox" stroke="none" fill="none" x="6803" y="15286" width="3608" height="1590"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 8607,16874 L 6804,16874 6804,15287 10409,15287 10409,16874 8607,16874 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="6964" y="15971"><tspan fill="rgb(0,0,0)" stroke="none">Annotation of </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="7576" y="16559"><tspan fill="rgb(0,0,0)" stroke="none">Variation</tspan></tspan></tspan></text>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.CustomShape">
-    <g id="id15">
-     <rect class="BoundingBox" stroke="none" fill="none" x="15044" y="15458" width="5095" height="1908"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 17591,17364 L 15045,17364 15045,15459 20137,15459 20137,17364 17591,17364 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 17591,17364 L 15045,17364 15045,15459 20137,15459 20137,17364 17591,17364 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15686" y="16008"><tspan fill="rgb(0,0,0)" stroke="none">Variation based </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15150" y="16596"><tspan fill="rgb(0,0,0)" stroke="none">Phylogeny or Single </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15654" y="17184"><tspan fill="rgb(0,0,0)" stroke="none">Copy Phylogeny</tspan></tspan></tspan></text>
+     <rect class="BoundingBox" stroke="none" fill="none" x="9182" y="12575" width="6036" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12200,14163 L 9183,14163 9183,12576 15216,12576 15216,14163 12200,14163 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="9687" y="13554"><tspan fill="rgb(0,0,0)" stroke="none">Alignment to genome</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.LineShape">
-    <g id="id16">
+    <g id="id14">
      <rect class="BoundingBox" stroke="none" fill="none" x="12080" y="11656" width="301" height="955"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 12230,11657 L 12230,12330"/>
      <path fill="rgb(52,101,164)" stroke="none" d="M 12380,12310 L 12230,12610 12080,12310 12380,12310 Z"/>
     </g>
    </g>
    <g class="com.sun.star.drawing.CustomShape">
-    <g id="id17">
-     <rect class="BoundingBox" stroke="none" fill="none" x="21838" y="12639" width="6156" height="1590"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 24916,14227 L 21839,14227 21839,12640 27992,12640 27992,14227 24916,14227 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 24916,14227 L 21839,14227 21839,12640 27992,12640 27992,14227 24916,14227 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="23764" y="13324"><tspan fill="rgb(0,0,0)" stroke="none">Assembly</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="22579" y="13912"><tspan fill="rgb(0,0,0)" stroke="none">of Unaligned Reads</tspan></tspan></tspan></text>
+    <g id="id15">
+     <rect class="BoundingBox" stroke="none" fill="none" x="7382" y="15175" width="4426" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 9595,16763 L 7383,16763 7383,15176 11806,15176 11806,16763 9595,16763 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="7596" y="15860"><tspan fill="rgb(0,0,0)" stroke="none">Quantification of </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="7782" y="16448"><tspan fill="rgb(0,0,0)" stroke="none">known miRNAs</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.ConnectorShape">
+    <g id="id16">
+     <rect class="BoundingBox" stroke="none" fill="none" x="9594" y="14163" width="2608" height="1016"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12200,14164 L 12200,14670 9595,14670 9595,15177"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.ConnectorShape">
+    <g id="id17">
+     <rect class="BoundingBox" stroke="none" fill="none" x="12199" y="14163" width="2772" height="1026"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12200,14164 L 12200,14675 14969,14675 14969,15187"/>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.CustomShape">
     <g id="id18">
-     <rect class="BoundingBox" stroke="none" fill="none" x="15216" y="10869" width="9851" height="1773"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 15217,10870 L 24916,10870 24916,12361"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 25066,12341 L 24916,12641 24766,12341 25066,12341 Z"/>
+     <rect class="BoundingBox" stroke="none" fill="none" x="8120" y="22708" width="3778" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 10009,24296 L 8121,24296 8121,22709 11896,22709 11896,24296 10009,24296 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8146" y="23393"><tspan fill="rgb(0,0,0)" stroke="none">Gene Ontology </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8929" y="23981"><tspan fill="rgb(0,0,0)" stroke="none">Analyses</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id19">
-     <rect class="BoundingBox" stroke="none" fill="none" x="21838" y="15139" width="6156" height="1590"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 24916,16727 L 21839,16727 21839,15140 27992,15140 27992,16727 24916,16727 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 24916,16727 L 21839,16727 21839,15140 27992,15140 27992,16727 24916,16727 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="22357" y="16118"><tspan fill="rgb(0,0,0)" stroke="none">Functional Annotation</tspan></tspan></tspan></text>
+     <rect class="BoundingBox" stroke="none" fill="none" x="12456" y="22758" width="4131" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 14521,24346 L 12457,24346 12457,22759 16585,22759 16585,24346 14521,24346 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="12592" y="23443"><tspan fill="rgb(0,0,0)" stroke="none">KEGG Pathway </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="13441" y="24031"><tspan fill="rgb(0,0,0)" stroke="none">Analyses</tspan></tspan></tspan></text>
     </g>
    </g>
    <g class="com.sun.star.drawing.ConnectorShape">
     <g id="id20">
-     <rect class="BoundingBox" stroke="none" fill="none" x="24766" y="14227" width="301" height="915"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 24916,14228 L 24916,14861"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 25066,14841 L 24916,15141 24766,14841 25066,14841 Z"/>
+     <rect class="BoundingBox" stroke="none" fill="none" x="9594" y="16763" width="2776" height="1108"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 9595,16764 L 9595,17316 12219,17316 12219,17590"/>
+     <path fill="rgb(52,101,164)" stroke="none" d="M 12369,17570 L 12219,17870 12069,17570 12369,17570 Z"/>
     </g>
    </g>
-   <g class="com.sun.star.drawing.CustomShape">
+   <g class="com.sun.star.drawing.ConnectorShape">
     <g id="id21">
-     <rect class="BoundingBox" stroke="none" fill="none" x="15033" y="17857" width="3379" height="1908"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 16722,19763 L 15034,19763 15034,17858 18410,17858 18410,19763 16722,19763 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 16722,19763 L 15034,19763 15034,17858 18410,17858 18410,19763 16722,19763 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="16144" y="18701"><tspan fill="rgb(0,0,0)" stroke="none">QTL </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15136" y="19289"><tspan fill="rgb(0,0,0)" stroke="none">identification*</tspan></tspan></tspan></text>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.TextShape">
-    <g id="id22">
-     <rect class="BoundingBox" stroke="none" fill="none" x="2440" y="23122" width="16530" height="3154"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2690" y="23823"><tspan fill="rgb(0,0,0)" stroke="none">*Assumes Bulked samples are given</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2690" y="24534"><tspan fill="rgb(0,0,0)" stroke="none">** Inquire depending on the species and samples</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="2690" y="25956"><tspan fill="rgb(0,0,0)" stroke="none">Red blocks are chargeable per analyses</tspan></tspan></tspan></text>
+     <rect class="BoundingBox" stroke="none" fill="none" x="12069" y="16773" width="2902" height="1098"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 14969,16774 L 14969,17321 12219,17321 12219,17590"/>
+     <path fill="rgb(52,101,164)" stroke="none" d="M 12369,17570 L 12219,17870 12069,17570 12369,17570 Z"/>
     </g>
    </g>
    <g class="com.sun.star.drawing.CustomShape">
+    <g id="id22">
+     <rect class="BoundingBox" stroke="none" fill="none" x="10365" y="20268" width="3708" height="1590"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12219,21856 L 10366,21856 10366,20269 14071,20269 14071,21856 12219,21856 Z"/>
+     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="11404" y="20953"><tspan fill="rgb(0,0,0)" stroke="none">Target </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="11036" y="21541"><tspan fill="rgb(0,0,0)" stroke="none">Prediction</tspan></tspan></tspan></text>
+    </g>
+   </g>
+   <g class="com.sun.star.drawing.ConnectorShape">
     <g id="id23">
-     <rect class="BoundingBox" stroke="none" fill="none" x="15015" y="20231" width="3379" height="1908"/>
-     <path fill="rgb(255,109,109)" stroke="none" d="M 16704,22137 L 15016,22137 15016,20232 18392,20232 18392,22137 16704,22137 Z"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 16704,22137 L 15016,22137 15016,20232 18392,20232 18392,22137 16704,22137 Z"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15701" y="21369"><tspan fill="rgb(0,0,0)" stroke="none">GWAS**</tspan></tspan></tspan></text>
+     <rect class="BoundingBox" stroke="none" fill="none" x="12069" y="19456" width="301" height="815"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12219,19457 L 12219,19990"/>
+     <path fill="rgb(52,101,164)" stroke="none" d="M 12369,19970 L 12219,20270 12069,19970 12369,19970 Z"/>
     </g>
    </g>
    <g class="com.sun.star.drawing.ConnectorShape">
     <g id="id24">
-     <rect class="BoundingBox" stroke="none" fill="none" x="8455" y="16874" width="301" height="607"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 8607,16875 L 8607,17177 8605,17177 8605,17200"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 8755,17180 L 8605,17480 8455,17180 8755,17180 Z"/>
+     <rect class="BoundingBox" stroke="none" fill="none" x="9859" y="21856" width="2362" height="855"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12219,21857 L 12219,22283 10009,22283 10009,22430"/>
+     <path fill="rgb(52,101,164)" stroke="none" d="M 10159,22410 L 10009,22710 9859,22410 10159,22410 Z"/>
     </g>
    </g>
-   <g class="com.sun.star.drawing.CustomShape">
+   <g class="com.sun.star.drawing.ConnectorShape">
     <g id="id25">
-     <rect class="BoundingBox" stroke="none" fill="none" x="8735" y="12626" width="6988" height="1590"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 12229,14214 L 8736,14214 8736,12627 15721,12627 15721,14214 12229,14214 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id26">
-     <rect class="BoundingBox" stroke="none" fill="none" x="4693" y="10869" width="4493" height="1762"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 9184,10870 L 4843,10870 4843,12350"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 4993,12330 L 4843,12630 4693,12330 4993,12330 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.TextShape">
-    <g id="id27">
-     <rect class="BoundingBox" stroke="none" fill="none" x="8919" y="12679" width="6766" height="1362"/>
-     <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="494px" font-weight="400"><tspan class="TextPosition" x="9169" y="13253"><tspan fill="rgb(0,0,0)" stroke="none">Identification of SNP, InDels </tspan></tspan><tspan class="TextPosition" x="9169" y="13808"><tspan fill="rgb(0,0,0)" stroke="none">and other minor variants</tspan></tspan></tspan></text>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id28">
-     <rect class="BoundingBox" stroke="none" fill="none" x="4842" y="14216" width="3916" height="1073"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 4843,14217 L 4843,14752 8607,14752 8607,15008"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 8757,14988 L 8607,15288 8457,14988 8757,14988 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id29">
-     <rect class="BoundingBox" stroke="none" fill="none" x="8457" y="14214" width="3774" height="1075"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 12229,14215 L 12229,14751 8607,14751 8607,15008"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 8757,14988 L 8607,15288 8457,14988 8757,14988 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id30">
-     <rect class="BoundingBox" stroke="none" fill="none" x="12228" y="14214" width="2818" height="2349"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 12229,14215 L 12229,16412 14765,16412"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 14745,16262 L 15045,16412 14745,16562 14745,16262 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id31">
-     <rect class="BoundingBox" stroke="none" fill="none" x="12228" y="14214" width="2789" height="7122"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 12229,14215 L 12229,21185 14736,21185"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 14716,21035 L 15016,21185 14716,21335 14716,21035 Z"/>
-    </g>
-   </g>
-   <g class="com.sun.star.drawing.ConnectorShape">
-    <g id="id32">
-     <rect class="BoundingBox" stroke="none" fill="none" x="12228" y="14214" width="2807" height="4748"/>
-     <path fill="none" stroke="rgb(52,101,164)" d="M 12229,14215 L 12229,18811 14754,18811"/>
-     <path fill="rgb(52,101,164)" stroke="none" d="M 14734,18661 L 15034,18811 14734,18961 14734,18661 Z"/>
+     <rect class="BoundingBox" stroke="none" fill="none" x="12218" y="21856" width="2454" height="905"/>
+     <path fill="none" stroke="rgb(52,101,164)" d="M 12219,21857 L 12219,22308 14521,22308 14521,22480"/>
+     <path fill="rgb(52,101,164)" stroke="none" d="M 14671,22460 L 14521,22760 14371,22460 14671,22460 Z"/>
     </g>
    </g>
   </g>
