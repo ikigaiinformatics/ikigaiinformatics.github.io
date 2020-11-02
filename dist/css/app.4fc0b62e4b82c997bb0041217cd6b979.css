@@ -588,7 +588,7 @@ img { max-width: 100%; }
 
 .cover { background-size: cover!important; }
 
-.contain { background-size: contain!important; }
+.contain { background-size: contain!important; background-color: bg-black }
 
 @media screen and (min-width: 30em) {
   .cover-ns { background-size: cover!important; }
@@ -634,6 +634,7 @@ img { max-width: 100%; }
 .bg-top {    
   background-repeat: no-repeat; 
   background-position: top center;    
+  background-color: bg-black;
 }
 
 .bg-right {  
