@@ -6,7 +6,11 @@ Sharing the knowledge with the greater scientific world, for the betterment of H
 Genome Survey analyses: Knowledge creation for information sparse organisms
 DNASeq with a Reference Genome: Contrast your sample with an available resource using Genome Sequencing
 Exome mutation analyses: Explore variation in the Protein Coding regions of a gene in a genome.
-Eukaryotic Genome assembly and analyses: Develop resource for a Eukaryotic organism using an assembly by mining features.</description></item><item><title>Conservation Genomics</title><link>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</guid><description>At Ikigai we offer a special analyses pipeline for creating resources that might help saving flora and fauna from getting extinct.
+Eukaryotic Genome assembly and analyses: Develop resource for a Eukaryotic organism using an assembly by mining features.</description></item><item><title>Computing</title><link>https://ikigaiinformatics.github.io/it/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/it/</guid><description>We offer the following Infrastructure development services at Ikigai Informatics:
+Local Infrastructure development: Building of custom Compute facilities or Workstations with deployment of OS.
+Cloud Infrastructure development: Setting up of Amazon Web Services and Google Compute Engine for running services or tools.
+Network Setup: Deployment of custom networks including VPNs.
+Microservices management: Docker and Kubernetes services deployment to efficiently use and scale compute.</description></item><item><title>Conservation Genomics</title><link>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ikigaiinformatics.github.io/analyses/conservation_genomics/conservation_genomics/</guid><description>At Ikigai we offer a special analyses pipeline for creating resources that might help saving flora and fauna from getting extinct.
 It is due to our actions, directly or indirectly various factors have arisen that have led to many species getting wiped out. 1 2
 Analyses flow at Ikigai:
 QC of the datasets to remove low quality data.
