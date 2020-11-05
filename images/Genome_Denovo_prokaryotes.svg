@@ -154,7 +154,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id11">
      <rect class="BoundingBox" stroke="none" fill="none" x="14871" y="17540" width="4029" height="1590"/>
-     <path fill="rgb(255,123,89)" stroke="none" d="M 16885,19128 L 14872,19128 14872,17541 18898,17541 18898,19128 16885,19128 Z"/>
+     <path fill="rgb(255,109,109)" stroke="none" d="M 16885,19128 L 14872,19128 14872,17541 18898,17541 18898,19128 16885,19128 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 16885,19128 L 14872,19128 14872,17541 18898,17541 18898,19128 16885,19128 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15321" y="18225"><tspan fill="rgb(0,0,0)" stroke="none">PanGenome </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15806" y="18813"><tspan fill="rgb(0,0,0)" stroke="none">Analyses</tspan></tspan></tspan></text>
     </g>
@@ -205,7 +205,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id18">
      <rect class="BoundingBox" stroke="none" fill="none" x="19371" y="17540" width="3535" height="1590"/>
-     <path fill="rgb(255,123,89)" stroke="none" d="M 21138,19128 L 19372,19128 19372,17541 22904,17541 22904,19128 21138,19128 Z"/>
+     <path fill="rgb(255,109,109)" stroke="none" d="M 21138,19128 L 19372,19128 19372,17541 22904,17541 22904,19128 21138,19128 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 21138,19128 L 19372,19128 19372,17541 22904,17541 22904,19128 21138,19128 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="19788" y="18225"><tspan fill="rgb(0,0,0)" stroke="none">SNP, InDel </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="19657" y="18813"><tspan fill="rgb(0,0,0)" stroke="none">identification</tspan></tspan></tspan></text>
     </g>
@@ -243,7 +243,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id23">
      <rect class="BoundingBox" stroke="none" fill="none" x="23371" y="17540" width="3535" height="1590"/>
-     <path fill="rgb(255,123,89)" stroke="none" d="M 25138,19128 L 23372,19128 23372,17541 26904,17541 26904,19128 25138,19128 Z"/>
+     <path fill="rgb(255,109,109)" stroke="none" d="M 25138,19128 L 23372,19128 23372,17541 26904,17541 26904,19128 25138,19128 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 25138,19128 L 23372,19128 23372,17541 26904,17541 26904,19128 25138,19128 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="24364" y="18519"><tspan fill="rgb(0,0,0)" stroke="none">MLST </tspan></tspan></tspan></text>
     </g>
@@ -251,7 +251,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id24">
      <rect class="BoundingBox" stroke="none" fill="none" x="14871" y="20041" width="4029" height="2261"/>
-     <path fill="rgb(255,123,89)" stroke="none" d="M 16885,22300 L 14872,22300 14872,20042 18898,20042 18898,22300 16885,22300 Z"/>
+     <path fill="rgb(255,109,109)" stroke="none" d="M 16885,22300 L 14872,22300 14872,20042 18898,20042 18898,22300 16885,22300 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 16885,22300 L 14872,22300 14872,20042 18898,20042 18898,22300 16885,22300 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15361" y="20767"><tspan fill="rgb(0,0,0)" stroke="none">Phylogenetic</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15020" y="21355"><tspan fill="rgb(0,0,0)" stroke="none">Analyses using </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="15495" y="21943"><tspan fill="rgb(0,0,0)" stroke="none">Core-genes</tspan></tspan></tspan></text>
     </g>
