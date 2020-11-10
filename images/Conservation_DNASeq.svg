@@ -131,7 +131,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id9">
      <rect class="BoundingBox" stroke="none" fill="none" x="22971" y="10045" width="5251" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 25596,11633 L 22972,11633 22972,10046 28220,10046 28220,11633 25596,11633 Z"/>
+     <path fill="none" stroke="none" d="M 25596,11633 L 22972,11633 22972,10046 28220,10046 28220,11633 25596,11633 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 25596,11633 L 22972,11633 22972,10046 28220,10046 28220,11633 25596,11633 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="23350" y="10730"><tspan fill="rgb(0,0,0)" stroke="none">Organelle Genome</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="23018" y="11318"><tspan fill="rgb(0,0,0)" stroke="none">Assembly+Annotation</tspan></tspan></tspan></text>
     </g>
@@ -181,7 +181,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id16">
      <rect class="BoundingBox" stroke="none" fill="none" x="5490" y="15295" width="5781" height="1908"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 8380,17201 L 5491,17201 5491,15296 11269,15296 11269,17201 8380,17201 Z"/>
+     <path fill="none" stroke="none" d="M 8380,17201 L 5491,17201 5491,15296 11269,15296 11269,17201 8380,17201 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 8380,17201 L 5491,17201 5491,15296 11269,15296 11269,17201 8380,17201 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="6475" y="15845"><tspan fill="rgb(0,0,0)" stroke="none">Variation based </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="5939" y="16433"><tspan fill="rgb(0,0,0)" stroke="none">Phylogeny or Single </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="5719" y="17021"><tspan fill="rgb(0,0,0)" stroke="none">Copy Gene Phylogeny</tspan></tspan></tspan></text>
     </g>

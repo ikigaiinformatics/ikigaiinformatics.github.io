@@ -94,7 +94,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id3">
      <rect class="BoundingBox" stroke="none" fill="none" x="8038" y="9939" width="6156" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 11116,11527 L 8039,11527 8039,9940 14192,9940 14192,11527 11116,11527 Z"/>
+     <path fill="none" stroke="none" d="M 11116,11527 L 8039,11527 8039,9940 14192,9940 14192,11527 11116,11527 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 11116,11527 L 8039,11527 8039,9940 14192,9940 14192,11527 11116,11527 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8237" y="10918"><tspan fill="rgb(0,0,0)" stroke="none">Draft Genome Assembly</tspan></tspan></tspan></text>
     </g>
@@ -102,7 +102,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id4">
      <rect class="BoundingBox" stroke="none" fill="none" x="8038" y="12539" width="6156" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 11116,14127 L 8039,14127 8039,12540 14192,12540 14192,14127 11116,14127 Z"/>
+     <path fill="none" stroke="none" d="M 11116,14127 L 8039,14127 8039,12540 14192,12540 14192,14127 11116,14127 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 11116,14127 L 8039,14127 8039,12540 14192,12540 14192,14127 11116,14127 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8610" y="13518"><tspan fill="rgb(0,0,0)" stroke="none">Genome Scaffolding*</tspan></tspan></tspan></text>
     </g>
@@ -117,7 +117,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id6">
      <rect class="BoundingBox" stroke="none" fill="none" x="7967" y="15039" width="6227" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 11116,16627 L 8039,16627 8039,15040 14192,15040 14192,16627 11116,16627 Z"/>
+     <path fill="none" stroke="none" d="M 11116,16627 L 8039,16627 8039,15040 14192,15040 14192,16627 11116,16627 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 11116,16627 L 8039,16627 8039,15040 14192,15040 14192,16627 11116,16627 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="7968" y="15724"><tspan fill="rgb(0,0,0)" stroke="none"> </tspan><tspan fill="rgb(0,0,0)" stroke="none">Final Genome Annotation </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="9317" y="16312"><tspan fill="rgb(0,0,0)" stroke="none">with eggNOG**</tspan></tspan></tspan></text>
     </g>
@@ -139,7 +139,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id9">
      <rect class="BoundingBox" stroke="none" fill="none" x="8138" y="17539" width="6156" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 11216,19127 L 8139,19127 8139,17540 14292,17540 14292,19127 11216,19127 Z"/>
+     <path fill="none" stroke="none" d="M 11216,19127 L 8139,19127 8139,17540 14292,17540 14292,19127 11216,19127 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 11216,19127 L 8139,19127 8139,17540 14292,17540 14292,19127 11216,19127 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="8479" y="18224"><tspan fill="rgb(0,0,0)" stroke="none">Phylogenetic Analyses </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="9326" y="18812"><tspan fill="rgb(0,0,0)" stroke="none">Using minimizer</tspan></tspan></tspan></text>
     </g>
@@ -213,7 +213,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id19">
      <rect class="BoundingBox" stroke="none" fill="none" x="15938" y="8739" width="6156" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 19016,10327 L 15939,10327 15939,8740 22092,8740 22092,10327 19016,10327 Z"/>
+     <path fill="none" stroke="none" d="M 19016,10327 L 15939,10327 15939,8740 22092,8740 22092,10327 19016,10327 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 19016,10327 L 15939,10327 15939,8740 22092,8740 22092,10327 19016,10327 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="16281" y="9718"><tspan fill="rgb(0,0,0)" stroke="none">Contamination Screen*</tspan></tspan></tspan></text>
     </g>
@@ -221,7 +221,7 @@
    <g class="com.sun.star.drawing.CustomShape">
     <g id="id20">
      <rect class="BoundingBox" stroke="none" fill="none" x="1380" y="17476" width="6156" height="1590"/>
-     <path fill="rgb(255,255,255)" stroke="none" d="M 4458,19064 L 1381,19064 1381,17477 7534,17477 7534,19064 4458,19064 Z"/>
+     <path fill="none" stroke="none" d="M 4458,19064 L 1381,19064 1381,17477 7534,17477 7534,19064 4458,19064 Z"/>
      <path fill="none" stroke="rgb(52,101,164)" d="M 4458,19064 L 1381,19064 1381,17477 7534,17477 7534,19064 4458,19064 Z"/>
      <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="1572" y="18161"><tspan fill="rgb(0,0,0)" stroke="none">Antimicrobial resistance </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="529px" font-weight="400"><tspan class="TextPosition" x="2338" y="18749"><tspan fill="rgb(0,0,0)" stroke="none">or virulence factor</tspan></tspan></tspan></text>
     </g>
